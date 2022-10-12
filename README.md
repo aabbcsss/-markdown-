@@ -12,7 +12,7 @@
 ##### e
 ###### f
 #### 줄 바꾸는 법: 문장 뒤에 공백 칸(스페이스바) 두 번  
-글자 수만큼 문장 밑에 =,-기호를 넣으면 각각 큰 제목과 작은 제목이 된다  
+#### 글자 수만큼 문장 밑에 =,-기호를 넣으면 각각 큰 제목과 작은 제목이 된다  
 Hello World
 ===========
 Hello World
@@ -31,4 +31,6 @@ https://google.com
 
 이미지를 넣으면 !기호 옆에 이미지 링크가 들어간다.
 
-![다운로드 (1)](https://user-images.githubusercontent.com/113878783/195328141-2f9a5a6e-a530-48ab-8374-4ddfb30f46b3.png)
+![다운로드 (1)](https://user-images.githubusercontent.com/113878783/195328141-2f9a5a6e-a530-48ab-8374-4ddfb30f46b3.png)  
+
+이 외에도 여러가지 문법(태그)가 있다.
