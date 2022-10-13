@@ -35,4 +35,4 @@ https://google.com
 
 ![다운로드 (1)](https://user-images.githubusercontent.com/113878783/195328141-2f9a5a6e-a530-48ab-8374-4ddfb30f46b3.png)  
 
-이 외에도 여러가지 문법(태그)가 있다.
+이 외에도 여러가지 가 있다.
